@@ -1,3 +1,9 @@
+/////////////////////////////////////////////////////////////
+/////        Internetdan qarab qildim. Tan olaman       /////
+/////////////////////////////////////////////////////////////
+
+
+
 const subButton = document.querySelector(".submit_btn");
 const todoText = document.querySelector(".input_text");
 const todoList = document.querySelector(".todo-list");
